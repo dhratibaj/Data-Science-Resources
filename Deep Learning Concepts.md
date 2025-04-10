@@ -11,6 +11,7 @@ The number of these layers can increase depending on the complexity of the data 
 
 * Max pooling: it takes the max number of window 2×2 as an example and represents this window by using the max number in it then slides on the image to make the same operation.
 * Average pooling: it is the same as max-pooling but takes the average of the window.
+  
 ![Alt_text](https://framerusercontent.com/images/v2vx7Q31a1BQrHj42ULMEFqb5I.png)
   
 ## Activation Function
